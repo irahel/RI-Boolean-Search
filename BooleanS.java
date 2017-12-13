@@ -145,6 +145,9 @@ public class BooleanS
         procura.op = "^";
         System.out.println(booleanSearch(list,procura2));
 
+        //adicionar para pesquisas de pesquisas
+
+
     }
     
 }
